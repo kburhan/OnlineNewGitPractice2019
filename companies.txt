@@ -3,3 +3,5 @@ Amazon
 Facebook
 Capital One
 Apple
+Intel
+Microsoft
